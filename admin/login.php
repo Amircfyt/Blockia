@@ -78,6 +78,4 @@ if(isset($_COOKIE['sui']))
   </body>
 </html>
 
-<?php
-session_destroy();
-?>
+
